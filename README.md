@@ -27,9 +27,8 @@ As a fresher, I’m focused on learning and applying **DevOps & Cloud-Native tec
 ## 🌱 Current Learning Goals  
 - Deep dive into **Kubernetes & Terraform**  
 - Strengthen **CI/CD pipeline automation**  
-- Contribute to **open-source DevOps projects**  
-- Practice **Data Structures & Algorithms** for problem-solving  
-
+- Contribute to **open-source DevOps projects**
+- 
 ---
 
 ⭐️ *“Passionate about learning, eager to contribute, and ready to grow as a DevOps Engineer.”*  
