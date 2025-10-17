@@ -1,9 +1,11 @@
 <!-- Animated Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C2CB&size=32&pause=800&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Rishabh+Jain!&v=2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Rishabh+Jain%21%3BAspiring+DevOps+Engineer%3BAutomation+%7C+Cloud+%7C+Scalability" alt="Typing SVG" />
 </p>
 
+
 ---
+
 
 ## 🧑🏻‍💻 About Me  
 💫 I’m an aspiring **DevOps Engineer ♾️** passionate about automation, cloud, and scalable systems.  
@@ -39,25 +41,6 @@ As a fresher, I’m focused on learning and applying **DevOps & Cloud-Native tec
 - Deep dive into **Kubernetes & Terraform** 🧩  
 - Strengthen **CI/CD pipeline automation** ⚙️  
 - Contribute to **open-source DevOps projects** 🌍  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishabhjain-dev&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-  
-</div>
 
 ---
 
