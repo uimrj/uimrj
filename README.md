@@ -23,7 +23,7 @@ As a fresher, I’m focused on learning and applying **DevOps & Cloud-Native tec
 ---
 
 ## 🛠️ Technologies & Tools  
-<div align="center">
+<div align="left">
 
 | Category | Tools |
 |-----------|--------|
