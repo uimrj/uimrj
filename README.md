@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Rishabh+Jain!;Aspiring+DevOps+Engineer+♾️;Automation+|+Cloud+|+Scalability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C2CB&size=32&pause=800&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Rishabh+Jain!&v=2" alt="Typing SVG" />
 </p>
 
 ---
